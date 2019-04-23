@@ -2,11 +2,11 @@ function setup(){
 createCanvas (1100, 600);
 background(237, 29, 2);
 
-img = loadImage('images/body.png');
-img2 = loadImage ('images/hand1.png');
-img3 = loadImage ('images/hand2.png');
-img4 = loadImage ('images/boob1.png');
-img5 = loadImage ('images/boob2.png');
+img = loadImage('images/body.PNG');
+img2 = loadImage ('images/hand1.PNG');
+img3 = loadImage ('images/hand2.PNG');
+img4 = loadImage ('images/boob1.PNG');
+img5 = loadImage ('images/boob2.PNG');
 img6 = loadImage ('images/rothand1.png');
 img7 = loadImage ('images/rothand2.png');
 
